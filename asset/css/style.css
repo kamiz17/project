@@ -21,6 +21,11 @@ img{
 .apply-btn{
     color:white;
     background-color: black;
+    border-color: black;
+}
+.apply-btn:hover{
+    color: black;
+    border-color: white;
 }
 .social-links{
     display: flex;
